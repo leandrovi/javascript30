@@ -19,7 +19,9 @@
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leandrovi/javascript30.svg">
 
-  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/65ce1c821382406f87978e7971d37928)](https://www.codacy.com/manual/leandrovi/javascript30?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=leandrovi/javascript30&amp;utm_campaign=Badge_Grade)
+  <a href="https://www.codacy.com/app/leandrovi/javascript30?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=leandrovi/javascript30&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/04db4b43120b4d05b9b39c9d2da97300.svg">
+  </a>
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/leandrovi/javascript30.svg">
   <a href="https://github.com/leandrovi/javascript30/commits/master">
