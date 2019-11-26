@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Html, JS and CSS" src="https://mpng.pngfly.com/20180406/uew/kisspng-cascading-style-sheets-javascript-html-css3-jquery-logo-5ac78cfa148694.1772279515230271940841.jpg" width="546">
+  <img alt="Html, JS and CSS" src="https://equaldesign.co.uk/wp-content/uploads/2019/06/transparent-html-4.png" width="546">
 </p>
 
 <h1 align="center">
@@ -19,9 +19,7 @@
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leandrovi/javascript30.svg">
 
-  <a href="https://www.codacy.com/app/leandrovi/javascript30?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=leandrovi/javascript30&amp;utm_campaign=Badge_Grade">
-    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/04db4b43120b4d05b9b39c9d2da97300.svg">
-  </a>
+  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/65ce1c821382406f87978e7971d37928)](https://www.codacy.com/manual/leandrovi/javascript30?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=leandrovi/javascript30&amp;utm_campaign=Badge_Grade)
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/leandrovi/javascript30.svg">
   <a href="https://github.com/leandrovi/javascript30/commits/master">
